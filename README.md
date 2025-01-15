@@ -6,7 +6,7 @@
 <h3 align="center">A passionate back-end developer from Ukraine</h3>
 
 ## 📚 Currently Learning
-- Laravel, Node.js, MongoDB
+- Laravel, jQuery, AJAX
 
 ### 📫 How to Reach Me
 - Email: [g397618@gmail.com](mailto:g397618@gmail.com)
@@ -19,7 +19,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=ff9900)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=0066ff)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript&logoColor=ffff00)
-![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=00cc00)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=9966ff)
 ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=Laravel&logoColor=ff3300)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)

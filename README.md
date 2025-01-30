@@ -6,7 +6,7 @@
 <h3 align="center">A passionate back-end developer from Ukraine</h3>
 
 ## 📚 Currently Learning
-- Laravel, jQuery, AJAX
+- Laravel, AJAX
 
 ### 📫 How to Reach Me
 - Email: [g397618@gmail.com](mailto:g397618@gmail.com)

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./git_foto.gif" alt="Main picture" width="600"/>
+  <img src="./git_foto.gif" alt="Main picture" width="1000"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Dima</h1>
